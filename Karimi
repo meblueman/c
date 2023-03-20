@@ -5,3 +5,6 @@ vless://7f63f7ec-5581-40b9-ab54-66d4371c9d6e@www.speedtest.net:443?encryption=no
 vless://7f63f7ec-5581-40b9-ab54-66d4371c9d6e@tak.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F59426#Karimi
 vless://7f63f7ec-5581-40b9-ab54-66d4371c9d6e@yas.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F59426#Karimi
 vless://fa3f32a7-9250-4543-aa31-91cdfe7e3ad8@135.148.47.240:80?encryption=none&security=none&sni=soft98.ir&type=ws&host=us-v.sshmax.xyz&path=%2Fvless#Us%20Server
+vless://7f63f7ec-5581-40b9-ab54-66d4371c9d6e@res1.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F59426#Karimi
+vless://7f63f7ec-5581-40b9-ab54-66d4371c9d6e@sirc.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F59426#Karimi
+vless://7f63f7ec-5581-40b9-ab54-66d4371c9d6e@smci.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F59426#Karimi
