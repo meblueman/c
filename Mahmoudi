@@ -4,4 +4,4 @@ vless://4b86af03-de29-4ec7-b5a8-45f809f0959d@firc.ddns.net:443?encryption=none&s
 vless://4b86af03-de29-4ec7-b5a8-45f809f0959d@www.speedtest.net:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F12097#Mahmoudi
 vless://4b86af03-de29-4ec7-b5a8-45f809f0959d@tak.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F12097#Mahmoudi
 vless://4b86af03-de29-4ec7-b5a8-45f809f0959d@yas.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F12097#Mahmoudi
-vless://4c3d48d4-97b9-427d-a4f3-3454a7b9eaab@135.148.47.240:443?encryption=none&security=tls&sni=soft98.ir&type=ws&host=us-v.sshmax.xyz&path=%2Fvless#Us%20Server
+vless://fa3f32a7-9250-4543-aa31-91cdfe7e3ad8@135.148.47.240:80?encryption=none&security=none&sni=soft98.ir&type=ws&host=us-v.sshmax.xyz&path=%2Fvless#Us%20Server
