@@ -5,3 +5,6 @@ vless://5fb4fcf5-0ee6-4dc8-97b1-00f6e6390720@www.speedtest.net:443?encryption=no
 vless://5fb4fcf5-0ee6-4dc8-97b1-00f6e6390720@tak.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F35213#Taraneh
 vless://5fb4fcf5-0ee6-4dc8-97b1-00f6e6390720@yas.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F35213#Taraneh
 vless://fa3f32a7-9250-4543-aa31-91cdfe7e3ad8@135.148.47.240:80?encryption=none&security=none&sni=soft98.ir&type=ws&host=us-v.sshmax.xyz&path=%2Fvless#Us%20Server
+vless://5fb4fcf5-0ee6-4dc8-97b1-00f6e6390720@res1.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F35213#Taraneh
+vless://5fb4fcf5-0ee6-4dc8-97b1-00f6e6390720@sirc.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F35213#Taraneh
+vless://5fb4fcf5-0ee6-4dc8-97b1-00f6e6390720@smci.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F35213#Taraneh
