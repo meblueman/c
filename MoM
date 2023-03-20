@@ -4,4 +4,4 @@ vless://7c554183-2da7-4a65-f1f3-f6ab545eefd4@firc.ddns.net:443?encryption=none&s
 vless://7c554183-2da7-4a65-f1f3-f6ab545eefd4@www.speedtest.net:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F38575#MoM
 vless://7c554183-2da7-4a65-f1f3-f6ab545eefd4@tak.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F38575#MoM
 vless://7c554183-2da7-4a65-f1f3-f6ab545eefd4@yas.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F38575#MoM
-vless://4c3d48d4-97b9-427d-a4f3-3454a7b9eaab@135.148.47.240:443?encryption=none&security=tls&sni=soft98.ir&type=ws&host=us-v.sshmax.xyz&path=%2Fvless#Us%20Server
+vless://fa3f32a7-9250-4543-aa31-91cdfe7e3ad8@135.148.47.240:80?encryption=none&security=none&sni=soft98.ir&type=ws&host=us-v.sshmax.xyz&path=%2Fvless#Us%20Server
