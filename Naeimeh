@@ -5,3 +5,6 @@ vless://2a493045-b150-41cf-f67c-c0aa860d7f4a@www.speedtest.net:443?encryption=no
 vless://2a493045-b150-41cf-f67c-c0aa860d7f4a@tak.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F16666#Naeimeh
 vless://2a493045-b150-41cf-f67c-c0aa860d7f4a@yas.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F16666#Naeimeh
 vless://fa3f32a7-9250-4543-aa31-91cdfe7e3ad8@135.148.47.240:80?encryption=none&security=none&sni=soft98.ir&type=ws&host=us-v.sshmax.xyz&path=%2Fvless#Us%20Server
+vless://2a493045-b150-41cf-f67c-c0aa860d7f4a@res1.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F16666#Naeimeh
+vless://2a493045-b150-41cf-f67c-c0aa860d7f4a@sirc.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F16666#Naeimeh
+vless://2a493045-b150-41cf-f67c-c0aa860d7f4a@smci.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F16666#Naeimeh
