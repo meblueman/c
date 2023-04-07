@@ -7,4 +7,4 @@ vless://dc7cb536-81c3-4a94-93f2-35bc4c52d24a@yas.nard.ca:443?encryption=none&sec
 vless://dc7cb536-81c3-4a94-93f2-35bc4c52d24a@res1.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F31414#MoM2
 vless://dc7cb536-81c3-4a94-93f2-35bc4c52d24a@sirc.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F31414#MoM2
 vless://dc7cb536-81c3-4a94-93f2-35bc4c52d24a@smci.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F31414#MoM2
-vless://2351ced1-9941-4826-d75b-2d0d31a7e1bf@tgju.org:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F16665#Me
+vless://dc7cb536-81c3-4a94-93f2-35bc4c52d24a@tgju.org:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F31414#All
