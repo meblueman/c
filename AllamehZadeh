@@ -7,4 +7,4 @@ vless://bd368d79-2563-429b-a8b5-ddd5f5276a19@yas.nard.ca:443?encryption=none&sec
 vless://bd368d79-2563-429b-a8b5-ddd5f5276a19@sirc.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F25250#Allameh
 vless://bd368d79-2563-429b-a8b5-ddd5f5276a19@smci.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F25250#Allameh
 vless://bd368d79-2563-429b-a8b5-ddd5f5276a19@res1.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F25250#Allameh
-vless://bd368d79-2563-429b-a8b5-ddd5f5276a19@tgju.org:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F25250#All
+vless://bd368d79-2563-429b-a8b5-ddd5f5276a19@r.fantom.cfd:50630?type=tcp&security=reality&sni=www.yahoo.com&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&flow=xtls-rprx-vision&fp=randomized#Allameh|gvDM.love@xray.com
