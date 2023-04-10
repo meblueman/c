@@ -8,3 +8,4 @@ vless://63e22310-cccf-4ed8-a447-177abf705e47@res1.nard.ca:443?encryption=none&se
 vless://63e22310-cccf-4ed8-a447-177abf705e47@sirc.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F43150#Hadi
 vless://63e22310-cccf-4ed8-a447-177abf705e47@smci.nard.ca:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F43150#Hadi
 vless://63e22310-cccf-4ed8-a447-177abf705e47@tgju.org:443?encryption=none&security=tls&sni=panel.fantom.cfd&type=ws&host=panel.fantom.cfd&path=%2Fario%2F43150#All
+vless://315753b8-0e08-4a8a-9d28-37ab4e4aae25@65.109.210.119:54321?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&type=tcp&headerType=none#Hadi%7CmYG6.love%40xray.com
