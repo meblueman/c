@@ -42,3 +42,4 @@ vless://73796e63-0000-4000-8000-000000000000@162.159.152.4:8080?encryption=none&
 trojan://73796e63-0000-4000-8000-000000000000@162.159.152.4:8080?sni=nahan-core.fa2e0a5176.workers.dev&fp=firefox&type=ws&host=nahan-core.fa2e0a5176.workers.dev&path=%2Fsync#T-Core-%5B162.159.152.4%5D
 vless://73796e63-0000-4000-8000-000000000000@104.18.183.237:8080?encryption=none&security=none&sni=nahan-core.fa2e0a5176.workers.dev&fp=firefox&type=ws&host=nahan-core.fa2e0a5176.workers.dev&path=%2Fsync#V-Core-%5B104.18.183.237%5D
 trojan://73796e63-0000-4000-8000-000000000000@104.18.183.237:8080?sni=nahan-core.fa2e0a5176.workers.dev&fp=firefox&type=ws&host=nahan-core.fa2e0a5176.workers.dev&path=%2Fsync#T-Core-%5B104.18.183.237%5D
+trojan://TheVPNMethod@188.114.97.6:443?path=%2Ftrojan&security=tls&insecure=0&type=ws&allowInsecure=0&sni=shomali1.themusiccenter.dpdns.org#%F0%9F%8D%AF%20ASAL%20%E2%80%94%20%40TheVPNMethod
